@@ -1,1 +1,42 @@
-
+git init
+git add filename
+git status filename
+git commit -m filename
+rm filename 
+git restore filename
+git status 
+git add git_commands.txt
+git status
+git add git_commands.txt
+git status
+git remote add origin https://github.com/prchigit/github-for-devops.git
+git remote -v
+git status
+git push origin master
+git remote add origin https://github.com/prchigit/github-for-devops.git
+git remote -v
+git remote set-url origin https://prchigit/github-for-devops.git
+git remote -v
+git push origin master
+git add git_commands,txt
+git add git_commands.txt
+git push origin master
+git remote set-url origin https://prchigit/github-for-devops.git
+git push origin master
+git remote set-url origin https://prchigit/github-for-devops.git
+git push origin master
+git remote add origin https://github.com/prchigit/git_devops.git
+git remote set-url origin https://github.com/prchigit/git_devops.git
+git push origin master
+git status
+git commit -m "git commands" git_commands.txt
+git status
+git remote add origin https://github.com/prchigit/git_devops.git
+git push -u origin master
+git push origin master
+git remote set-url https://github.com/prchigit/git_devops
+mkdir git-demo
+ls
+git-demo
+git clone https://github.com/LondheShubham153/github-for-devops-workshop.git
+cd github-for-devops-workshop
